@@ -1,4 +1,5 @@
 **Software Testing and Quality Assurance Portfolio**
+
 About This Portfolio
 
 This repository highlights work I completed in my software testing course. Project One focused on building and testing a contact service, while Project Two gave me the opportunity to evaluate my testing approach and explain what I learned. Together, these artifacts show how I use requirements, automated tests, and careful design to improve software quality.
